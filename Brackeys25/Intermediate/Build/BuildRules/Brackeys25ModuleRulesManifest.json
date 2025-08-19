@@ -1,9 +1,0 @@
-{
-	"SourceFiles": [
-		"E:\\GITHUB\\Rolande\\Brackeys25\\Brackeys25\\Source\\Brackeys25\\Brackeys25.Build.cs",
-		"E:\\GITHUB\\Rolande\\Brackeys25\\Brackeys25\\Plugins\\UEGitPlugin-dev\\Source\\GitSourceControl\\GitSourceControl.Build.cs",
-		"E:\\GITHUB\\Rolande\\Brackeys25\\Brackeys25\\Source\\Brackeys25.Target.cs",
-		"E:\\GITHUB\\Rolande\\Brackeys25\\Brackeys25\\Source\\Brackeys25Editor.Target.cs"
-	],
-	"EngineVersion": "5.4.4"
-}
