@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Brackeys25.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\GITHUB\Rolande\Brackeys25\Brackeys25\Intermediate\Build\Win64\x64\Brackeys25Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"E:\GITHUB\Rolande\Brackeys25\Brackeys25\Intermediate\Build\Win64\x64\UnrealEditor\Development\Brackeys25\Brackeys25.cpp.obj"
+"E:\GITHUB\Rolande\Brackeys25\Brackeys25\Intermediate\Build\Win64\x64\UnrealEditor\Development\Brackeys25\MyClass_Initialize.cpp.obj"
+"E:\GITHUB\Rolande\Brackeys25\Brackeys25\Intermediate\Build\Win64\x64\UnrealEditor\Development\Brackeys25\Default.rc2.res"
+/OUT:"E:\GITHUB\Rolande\Brackeys25\Brackeys25\Intermediate\Build\Win64\x64\UnrealEditor\Development\Brackeys25\UnrealEditor-Brackeys25.lib"

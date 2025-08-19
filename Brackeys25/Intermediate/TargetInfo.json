@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Brackeys25",
+			"Path": "..\\Source\\Brackeys25.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Brackeys25Editor",
+			"Path": "..\\Source\\Brackeys25Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
